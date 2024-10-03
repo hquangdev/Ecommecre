@@ -66,8 +66,7 @@
               "RelativeToolTip": "EcomercreMVC\\Views\\Hanghoa\\Timkiem.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T08:44:39.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T08:44:39.294Z"
             },
             {
               "$type": "Document",
@@ -77,7 +76,7 @@
               "RelativeDocumentMoniker": "EcomercreMVC\\Controllers\\HanghoaController.cs",
               "ToolTip": "F:\\File_Web_C#\\EcomercreMVC\\EcomercreMVC\\Controllers\\HanghoaController.cs",
               "RelativeToolTip": "EcomercreMVC\\Controllers\\HanghoaController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwCcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCsAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T08:42:54.348Z",
               "EditorCaption": ""
@@ -92,8 +91,7 @@
               "RelativeToolTip": "EcomercreMVC\\Views\\Shared\\_TimKiemPanel.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T08:42:32.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T08:42:32.16Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "EcomercreMVC\\Views\\Shared\\_DanhSachHangHoa.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T08:42:16.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T08:42:16.756Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "EcomercreMVC\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T08:41:42.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T08:41:42.625Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "EcomercreMVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T08:41:37.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T08:41:37.182Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "EcomercreMVC\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T08:41:00.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T08:41:00.091Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "EcomercreMVC\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T08:40:48.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T08:40:48.56Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "EcomercreMVC\\Views\\Shared\\LayoutCustom.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAFIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T08:26:31.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T08:26:31.198Z"
             },
             {
               "$type": "Document",
@@ -183,8 +175,7 @@
               "RelativeToolTip": "EcomercreMVC\\Views\\Cart\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T07:32:10.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T07:32:10.432Z"
             },
             {
               "$type": "Document",
@@ -196,8 +187,7 @@
               "RelativeToolTip": "EcomercreMVC\\Controllers\\CartController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:38:58.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T06:38:58.319Z"
             }
           ]
         }
